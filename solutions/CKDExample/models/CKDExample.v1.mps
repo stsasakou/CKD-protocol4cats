@@ -47,12 +47,7 @@
         <property id="5115140550395232053" name="timeRange" index="3Wv5Sf" />
         <child id="5115140550395232058" name="measure" index="3Wv5S0" />
       </concept>
-      <concept id="5115140550409889159" name="CKDStageTreatment4Cats.structure.MeasurementBinaryOperator" flags="ng" index="3XB0iX">
-        <child id="7299101808757383574" name="operand" index="1vbFZU" />
-        <child id="5115140550409889164" name="secondoperand" index="3XB0iQ" />
-      </concept>
       <concept id="5115140550409959606" name="CKDStageTreatment4Cats.structure.LessOrEqualUnaryOperator" flags="ng" index="3XBhAc" />
-      <concept id="5115140550409959607" name="CKDStageTreatment4Cats.structure.MeasurementRangeOperator" flags="ng" index="3XBhAd" />
       <concept id="5115140550410030218" name="CKDStageTreatment4Cats.structure.MeasurementOperandAdapter" flags="ng" index="3XBAQK">
         <child id="7299101808757380444" name="operand" index="1vbCGK" />
       </concept>
@@ -98,99 +93,6 @@
       <node concept="24FGsm" id="HyyMI4uUdG" role="24FGso" />
       <node concept="24FGtE" id="HyyMI4uUdY" role="24FGso" />
       <node concept="24FGtE" id="HyyMI4uUey" role="24FGso" />
-      <node concept="3XCFjP" id="7A29YWiXz5" role="24FGso">
-        <property role="TrG5h" value="example" />
-        <node concept="3WxVBB" id="7iP$3i8d8N_" role="3XCFjC">
-          <node concept="3XCFj$" id="7iP$3i8d8NA" role="1vbQ0A">
-            <node concept="3XCNfl" id="7iP$3i8d8NM" role="1vbQ0W">
-              <node concept="3XBAQK" id="7iP$3i8d8NS" role="1vbFZZ">
-                <property role="3ZjGdb" value="4LDewmN9gjl/MERCURY_MM" />
-                <node concept="3XBO7S" id="7iP$3i8d8NW" role="1vbCGK">
-                  <property role="3XBO7T" value="12" />
-                </node>
-              </node>
-            </node>
-            <node concept="3WvTsx" id="7iP$3i8d8NJ" role="1vbQ0Y">
-              <property role="TrG5h" value="Blood Creatinine Concentration" />
-            </node>
-          </node>
-          <node concept="3XCIFc" id="7iP$3i8d8ND" role="1vbQ0w">
-            <property role="1vbQ0P" value="6lbBAKUpfTz/CHECK_RISK_FACTORS" />
-            <property role="1vbQ0V" value="tHIS" />
-            <node concept="3XCIOz" id="6BbzKR_69Br" role="1vbQ0K">
-              <property role="3hvVw1" value="1" />
-              <property role="3XCIOw" value="4rWCjEVn$KA/MONTHS" />
-            </node>
-          </node>
-        </node>
-        <node concept="3WxVBB" id="76cXXzf_We4" role="3XCFjC">
-          <node concept="3XCFj$" id="76cXXzf_We5" role="1vbQ0A">
-            <node concept="3XCNfl" id="76cXXzf_Wep" role="1vbQ0W">
-              <node concept="3XBAQK" id="76cXXzf_Wev" role="1vbFZZ">
-                <property role="3ZjGdb" value="4rWCjEUZug$/CREATININE" />
-                <node concept="3XBO7S" id="76cXXzf_Wez" role="1vbCGK">
-                  <property role="3XBO7T" value="12" />
-                </node>
-              </node>
-            </node>
-            <node concept="3WvTsx" id="76cXXzf_Wem" role="1vbQ0Y">
-              <property role="TrG5h" value="Blood Creatinine Concentration" />
-            </node>
-          </node>
-          <node concept="3XCIFc" id="76cXXzf_We8" role="1vbQ0w" />
-        </node>
-        <node concept="3WxVBB" id="76cXXzf_We_" role="3XCFjC">
-          <node concept="3XCFj$" id="76cXXzf_WeA" role="1vbQ0A">
-            <node concept="3XBhAd" id="76cXXzf_Wf1" role="1vbQ0W">
-              <node concept="3XBAQK" id="76cXXzf_Wfa" role="1vbFZU">
-                <property role="3ZjGdb" value="4rWCjEUZug$/CREATININE" />
-                <node concept="3XBO7S" id="76cXXzf_Wfi" role="1vbCGK">
-                  <property role="3XBO7T" value="14" />
-                </node>
-              </node>
-              <node concept="3XBAQK" id="76cXXzf_Wfe" role="3XB0iQ">
-                <property role="3ZjGdb" value="4rWCjEUZug$/CREATININE" />
-                <node concept="3XBO7S" id="76cXXzf_Wfk" role="1vbCGK">
-                  <property role="3XBO7T" value="12" />
-                </node>
-              </node>
-            </node>
-            <node concept="3WvTsx" id="76cXXzf_WeY" role="1vbQ0Y">
-              <property role="TrG5h" value="Blood Creatinine Concentration" />
-            </node>
-          </node>
-          <node concept="3XCIFc" id="76cXXzf_WeD" role="1vbQ0w" />
-        </node>
-        <node concept="3WxVBB" id="76cXXzf_Wfm" role="3XCFjC">
-          <node concept="3XCFj$" id="76cXXzf_Wfn" role="1vbQ0A">
-            <node concept="3XBhAd" id="76cXXzf_WfV" role="1vbQ0W">
-              <node concept="3XBAQK" id="76cXXzf_Wg4" role="1vbFZU">
-                <property role="3ZjGdb" value="4rWCjEUZug$/CREATININE" />
-                <node concept="3XBO7S" id="76cXXzf_Wgc" role="1vbCGK">
-                  <property role="3XBO7T" value="12" />
-                </node>
-              </node>
-              <node concept="3XBAQK" id="76cXXzf_Wg8" role="3XB0iQ">
-                <property role="3ZjGdb" value="4rWCjEUZug$/CREATININE" />
-                <node concept="3XBO7S" id="76cXXzf_Wge" role="1vbCGK">
-                  <property role="3XBO7T" value="14" />
-                </node>
-              </node>
-            </node>
-            <node concept="3WvTsx" id="76cXXzf_WfS" role="1vbQ0Y">
-              <property role="TrG5h" value="Blood Creatinine Concentration" />
-            </node>
-          </node>
-          <node concept="3XCIFc" id="76cXXzf_Wfq" role="1vbQ0w" />
-        </node>
-        <node concept="3WJu4d" id="7A29YWiXz7" role="3XCFjE">
-          <property role="3Wv5Sd" value="12" />
-          <property role="3Wv5Sf" value="12" />
-          <node concept="3WvTsx" id="7A29YWiXzv" role="3Wv5S0">
-            <property role="TrG5h" value="Blood Creatinine Concentration" />
-          </node>
-        </node>
-      </node>
       <node concept="2Y9IvF" id="HyyMI4uUeX" role="24FGso">
         <property role="TrG5h" value="Dehydration" />
         <node concept="2Y8ej5" id="HyyMI4uUfp" role="3ZwvcQ" />
